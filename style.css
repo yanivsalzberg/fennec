@@ -1,0 +1,21 @@
+.world {
+
+    margin: auto;
+    margin-top: 200px;
+    border-radius: 50%;
+    background-color: blue;
+    height: 400px;
+    width: 30%;
+    cursor: hand;
+
+}
+
+h1 {
+  color: white;
+  margin: auto;
+  font-size: 50px;
+  margin-top: 100px;
+  padding-top: 60px;
+  text-align: center;
+  font-family: 'Baloo Bhaina', cursive;
+}
