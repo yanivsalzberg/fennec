@@ -6,7 +6,7 @@ $('.world').on('click', function () {
 
 
 //double click
-$('.world').dblclick(function () {  
+$('.world').on('click', function () {  
   var sound = 'assets/spaceSound.mp3';
   var audio = new Audio(sound);
   audio.play();
