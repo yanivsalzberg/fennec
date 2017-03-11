@@ -12,5 +12,13 @@
     "jquery": "^3.1.1"
   },
   "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yanivsalzberg/fennec.git"
+  },
+  "bugs": {
+    "url": "https://github.com/yanivsalzberg/fennec/issues"
+  },
+  "homepage": "https://github.com/yanivsalzberg/fennec#readme",
   "description": ""
 }
